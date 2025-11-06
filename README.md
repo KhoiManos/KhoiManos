@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhoiManos
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently studying IT-Systems Engineering at HPI 
 - 📫 How to reach me:
   - Email: trandangkhoi724@gmail.com
 - ⚡ Fun fact: I am asian and can cook minute rice in 59 seconds.
