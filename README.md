@@ -29,8 +29,3 @@
 LinkedIn: https://www.linkedin.com/in/khoi-tran-dang-171003343/
 
 Email: trandangkhoi724@gmail.com
-
----
-<p align="center">
-  <i>"Programming is not just about writing code, it's about solving problems."</i>
-</p>
